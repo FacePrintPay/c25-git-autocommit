@@ -12,6 +12,6 @@ chmod +x git_autocommit.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/git_autocommit.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/git_autocommit.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
